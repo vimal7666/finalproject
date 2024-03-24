@@ -1,0 +1,102 @@
+dbconnection---
+com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.SocketException
+MESSAGE: java.net.ConnectException: Connection refused: connect
+
+STACKTRACE:
+
+java.net.SocketException: java.net.ConnectException: Connection refused: connect
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:156)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:276)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2666)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1531)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at db.dbconnection.contextInitialized(dbconnection.java:35)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:3934)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4429)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:791)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:771)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:526)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:987)
+	at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:909)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:495)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1206)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1053)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:722)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1045)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:443)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:516)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:583)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2741)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1531)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at db.dbconnection.contextInitialized(dbconnection.java:35)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:3934)
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4429)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:791)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:771)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:526)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:987)
+	at org.apache.catalina.startup.HostConfig.deployDirectories(HostConfig.java:909)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:495)
+	at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1206)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1053)
+	at org.apache.catalina.core.StandardHost.start(StandardHost.java:722)
+	at org.apache.catalina.core.ContainerBase.start(ContainerBase.java:1045)
+	at org.apache.catalina.core.StandardEngine.start(StandardEngine.java:443)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:516)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:583)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+java.lang.NullPointerException
+	at db.dbconnection.contextDestroyed(dbconnection.java:20)
+	at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:3973)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4577)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:924)
+	at org.apache.catalina.startup.HostConfig.undeployApps(HostConfig.java:1248)
+	at org.apache.catalina.startup.HostConfig.stop(HostConfig.java:1219)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:316)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1086)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1098)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:448)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:584)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:633)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:608)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)

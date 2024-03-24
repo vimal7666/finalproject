@@ -1,0 +1,10 @@
+Mar 20, 2024 5:00:44 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-9999
+Mar 20, 2024 5:00:45 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 20, 2024 5:00:46 AM com.sun.xml.ws.transport.http.servlet.WSServletDelegate destroy
+INFO: WSSERVLET15: JAX-WS servlet destroyed
+Mar 20, 2024 5:00:46 AM com.sun.xml.ws.transport.http.servlet.WSServletContextListener contextDestroyed
+INFO: WSSERVLET13: JAX-WS context listener destroyed
+Mar 20, 2024 5:00:51 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-9999

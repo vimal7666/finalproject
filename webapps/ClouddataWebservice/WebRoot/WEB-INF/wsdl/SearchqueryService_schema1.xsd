@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://logic.com/" targetNamespace="http://logic.com/" version="1.0">
+
+  <xs:element name="bubble_srt" type="tns:bubble_srt"/>
+
+  <xs:element name="bubble_srtResponse" type="tns:bubble_srtResponse"/>
+
+  <xs:element name="genQuery" type="tns:genQuery"/>
+
+  <xs:element name="genQueryResponse" type="tns:genQueryResponse"/>
+
+  <xs:element name="genQueryView" type="tns:genQueryView"/>
+
+  <xs:element name="genQueryViewResponse" type="tns:genQueryViewResponse"/>
+
+  <xs:complexType name="genQueryView">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string"/>
+      <xs:element minOccurs="0" name="arg1" type="xs:string"/>
+      <xs:element minOccurs="0" name="arg2" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="genQueryViewResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="genQuery">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string"/>
+      <xs:element minOccurs="0" name="arg1" type="xs:string"/>
+      <xs:element minOccurs="0" name="arg2" type="xs:string"/>
+      <xs:element minOccurs="0" name="arg3" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="genQueryResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="bubble_srt">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="arg0" nillable="true" type="xs:int"/>
+      <xs:element name="arg1" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="bubble_srtResponse">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" minOccurs="0" name="return" nillable="true" type="xs:int"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

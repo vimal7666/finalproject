@@ -1,0 +1,28 @@
+Aim:
+	
+	Our study aims to develop a blockchain-based web application that enhances transparency and traceability in the agricultural food supply chain . This involves tracing the journey of products from farmers to warehousers, transporters, retailers and ultimately on consumers. The primary focus is on securing the payment process from consumers, ensuring a seamless and trustworthy transaction experience.
+
+
+
+
+Abstract:
+
+The agricultural food supply chain stands as a focal point for research, wherein disruptive technologies assume a pivotal role in automating business processes, ensuring real-time goods monitoring, and fortifying transactions. By leveraging blockchain, smart contracts, it becomes possible to monitor a product's health and environmental impact throughout the entire supply chain. In this investigation, we have undertaken a critical examination of the applicability of these technologies across various activities within the agricultural supply chain, employing the Business Process Modeling (BPM) approach.
+
+The findings derived from the blockchain and smart contracts-based BPM analysis were subsequently integrated across different layers of the Reference Architecture for Modeling Industry 4.0 (RAMI 4.0). This integration has facilitated the introduction of an innovative smart agriculture framework based on smart contracts. Our implementation using Ganache and Truffle suite efficiently manages the gas cost in our proposed smart contracts.
+
+
+Existing System:
+
+	Traditional supply chains face limitations such as a lack of transparency, third parties’ involvement, information security, and centralized information storage systems. Information management systems for supply chains are generally centralized, requiring entities to trust one broker with sensitive data and information. Centralized information systems have the disadvantage of a single point of failure and are more susceptible to hacking and other attacks.
+
+
+Disadvantages:
+	
+	Customers always demand better quality products delivered on time and at the right price, which is a big challenge in supply chain management. Consumers also demand visibility and traceability to keep track of their orders. Traceability, or tracking a product through all supply chain stages, is more of a demand than a request, as almost every customer wants to know the product’s origin and ingredients. Maintaining supply chain visibility and tracking shipments become tough when multiple carriers, third-party logistics providers, and modes of transportation are used. Lack of traceability can create blind spots in the supply chain and weaken the customer’s trust, which can eventually cause lower sales and lead to less profit. Transportation delays and poor storage practices in warehouses are common causes that can affect the safety and quality of products. Lack of communication also has a significant impact on the supply chain because there are several parties involved that have little or no knowledge of other entities’ actions. Poor communication among parties may cause inefficiency, leading to trust issues among suppliers and customers. If the supply chain operates globally, trust issues get much worse.
+
+
+Proposed System:
+		
+		With the advent of the latest technologies, blockchain, and smart contracts, most of these challenges can be addressed in an efficient manner. So, we proposed a Blockchain based Agricultural food supply chain Web Application that enhances the traceability and transparency of products from Manufacturers to Consumers in a De-Centralized manner. We also further added payment from Consumer for the product they purchased to the Organizer in a secured, transparent way with the help of Ethereum BlockChain.
+	

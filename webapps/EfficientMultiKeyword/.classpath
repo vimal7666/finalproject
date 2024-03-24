@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.struts2.MYECLIPSE_STRUTS21_CORE"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/stanford-postagger-3.3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/jaws-bin.jar"/>
+	<classpathentry kind="lib" path="WebRoot/JAR/jutils-2.3.jar"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.xfire.MYECLIPSE_JAXWS_API"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.xfire.MYECLIPSE_METRO_IMPL"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<endpoints version="2.0"
+	xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+	<endpoint name="RegisterPort"
+		implementation="com.logic.RegisterDelegate"
+		url-pattern="/RegisterPort">
+	</endpoint>
+	<endpoint name="FileUploadPort"
+		implementation="com.logic.FileUploadDelegate"
+		url-pattern="/FileUploadPort">
+	</endpoint>
+	<endpoint name="SearchqueryPort"
+		implementation="com.logic.SearchqueryDelegate"
+		url-pattern="/SearchqueryPort">
+	</endpoint>
+	<endpoint name="filedecryptionPort"
+		implementation="com.logic.filedecryptionDelegate"
+		url-pattern="/filedecryptionPort">
+	</endpoint>
+	<endpoint name="FileViewPort"
+		implementation="com.logic.FileViewDelegate"
+		url-pattern="/FileViewPort">
+	</endpoint></endpoints>

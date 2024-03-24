@@ -1,0 +1,846 @@
+Mar 18, 2024 9:38:38 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;.
+Mar 18, 2024 9:38:38 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 9:38:38 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 900 ms
+Mar 18, 2024 9:38:38 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 9:38:38 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 9:38:39 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 9:38:39 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 9:38:39 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/15  config=null
+Mar 18, 2024 9:38:39 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1331 ms
+Mar 18, 2024 9:39:19 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 9:39:20 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 9:39:20 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 9:44:56 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 9:44:56 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 9:44:56 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 741 ms
+Mar 18, 2024 9:44:56 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 9:44:56 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 9:45:00 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 9:45:00 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 9:45:00 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 9:45:00 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 9:45:01 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 9:45:01 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 9:45:01 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Mar 18, 2024 9:45:01 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5362 ms
+Mar 18, 2024 9:59:19 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 9:59:21 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 9:59:22 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 10:58:11 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 10:58:11 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 10:58:11 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 694 ms
+Mar 18, 2024 10:58:11 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 10:58:11 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 10:58:13 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 10:58:14 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 10:58:14 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 10:58:14 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 10:58:15 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 10:58:15 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 10:58:15 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/15  config=null
+Mar 18, 2024 10:58:15 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3463 ms
+Mar 18, 2024 11:06:11 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:06:13 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 11:06:14 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:06:36 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 11:06:37 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:06:37 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 835 ms
+Mar 18, 2024 11:06:37 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 11:06:37 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 11:06:38 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 11:06:38 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 11:06:38 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 11:06:38 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 11:06:39 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:06:39 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 11:06:39 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Mar 18, 2024 11:06:39 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2757 ms
+Mar 18, 2024 11:09:14 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:09:15 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 11:09:16 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:09:48 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;.
+Mar 18, 2024 11:09:48 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:09:48 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 470 ms
+Mar 18, 2024 11:09:48 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 11:09:48 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 11:09:53 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 11:09:53 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 11:09:53 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 11:09:53 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 11:09:54 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:09:54 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 11:09:54 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Mar 18, 2024 11:09:54 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6097 ms
+Mar 18, 2024 11:10:14 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 11:10:14 AM org.apache.coyote.http11.Http11Protocol init
+SEVERE: Error initializing endpoint
+java.net.BindException: Address already in use: JVM_Bind<null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:509)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:176)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1058)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:677)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:535)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:555)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:260)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:412)
+
+Mar 18, 2024 11:10:14 AM org.apache.catalina.startup.Catalina load
+SEVERE: Catalina.start
+LifecycleException:  Protocol handler initialization failed: java.net.BindException: Address already in use: JVM_Bind<null>:8080
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:1060)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:677)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:795)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:535)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:555)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:260)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:412)
+
+Mar 18, 2024 11:10:14 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 329 ms
+Mar 18, 2024 11:10:14 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 11:10:14 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 11:10:19 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 11:10:19 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 11:10:19 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 11:10:19 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 11:10:19 AM org.apache.coyote.http11.Http11Protocol start
+SEVERE: Error starting endpoint
+java.net.BindException: Address already in use: JVM_Bind<null>:8080
+	at org.apache.tomcat.util.net.JIoEndpoint.init(JIoEndpoint.java:509)
+	at org.apache.tomcat.util.net.JIoEndpoint.start(JIoEndpoint.java:526)
+	at org.apache.coyote.http11.Http11Protocol.start(Http11Protocol.java:203)
+	at org.apache.catalina.connector.Connector.start(Connector.java:1131)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:531)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:583)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+
+Mar 18, 2024 11:10:19 AM org.apache.catalina.startup.Catalina start
+SEVERE: Catalina.start: 
+LifecycleException:  service.getName(): "Catalina";  Protocol handler start failed: java.net.BindException: Address already in use: JVM_Bind<null>:8080
+	at org.apache.catalina.connector.Connector.start(Connector.java:1138)
+	at org.apache.catalina.core.StandardService.start(StandardService.java:531)
+	at org.apache.catalina.core.StandardServer.start(StandardServer.java:710)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:583)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+
+Mar 18, 2024 11:10:19 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5680 ms
+Mar 18, 2024 11:10:19 AM org.apache.catalina.core.StandardServer await
+SEVERE: StandardServer.await: create[8005]: 
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:373)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:647)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:607)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+
+Mar 18, 2024 11:10:19 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:10:20 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 11:10:21 AM org.apache.catalina.connector.MapperListener destroy
+WARNING: Error unregistering MBeanServerDelegate
+java.lang.NullPointerException
+	at org.apache.catalina.connector.MapperListener.destroy(MapperListener.java:171)
+	at org.apache.catalina.connector.Connector.stop(Connector.java:1179)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:593)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:633)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:676)
+
+Mar 18, 2024 11:10:21 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:10:21 AM org.apache.catalina.connector.Connector stop
+SEVERE: Coyote connector has not been started
+Mar 18, 2024 11:10:31 AM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:10:32 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 11:10:33 AM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:10:37 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 11:10:37 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:10:37 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 309 ms
+Mar 18, 2024 11:10:37 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 11:10:37 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 11:10:42 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 11:10:42 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 11:10:42 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 11:10:42 AM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 11:10:42 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 11:10:42 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 11:10:42 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Mar 18, 2024 11:10:42 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5671 ms
+Mar 18, 2024 11:26:14 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/EfficientMultiKeyword]
+Mar 18, 2024 11:26:15 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.util.ReflectionUtils$ReflectionUtilsListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 11:26:15 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.config.ConfigureListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 11:26:15 AM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.application.WebappLifecycleListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 11:26:15 AM com.sun.faces.config.ConfigureListener$WebXmlProcessor scanForFacesServlet
+WARNING: Unable to process deployment descriptor for context 'null'
+Mar 18, 2024 11:26:15 AM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Sun's JavaServer Faces implementation (1.2_04-b07-FCS) for context '/EfficientMultiKeyword'
+Mar 18, 2024 12:31:28 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 12:31:28 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:31:28 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 878 ms
+Mar 18, 2024 12:31:28 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 12:31:28 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 12:31:31 PM com.sun.faces.config.ConfigureListener$WebXmlProcessor scanForFacesServlet
+WARNING: Unable to process deployment descriptor for context 'null'
+Mar 18, 2024 12:31:31 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Sun's JavaServer Faces implementation (1.2_04-b07-FCS) for context '/EfficientMultiKeyword'
+Mar 18, 2024 12:31:31 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:31:31 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 12:31:31 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Mar 18, 2024 12:31:31 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3049 ms
+Mar 18, 2024 12:36:14 PM org.apache.jasper.compiler.TldLocationsCache processWebDotXml
+WARNING: Internal Error: File /WEB-INF/web.xml not found
+Mar 18, 2024 12:38:46 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/EfficientMultiKeyword]
+Mar 18, 2024 12:38:47 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.util.ReflectionUtils$ReflectionUtilsListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 12:38:47 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.config.ConfigureListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 12:38:47 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.application.WebappLifecycleListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 12:38:48 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 12:38:48 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 12:38:48 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 12:38:48 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 12:38:57 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:38:58 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 12:38:59 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:39:10 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 12:39:10 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:39:10 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 717 ms
+Mar 18, 2024 12:39:11 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 12:39:11 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 12:39:12 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 12:39:12 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 12:39:12 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 12:39:12 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 12:39:12 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:39:12 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 12:39:12 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Mar 18, 2024 12:39:12 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1993 ms
+Mar 18, 2024 12:52:11 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:52:12 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 12:52:13 PM org.apache.catalina.startup.HostConfig undeployApps
+WARNING: Error while removing context [/EfficientMultiKeyword]
+java.lang.NoClassDefFoundError: org/apache/struts2/util/ObjectFactoryDestroyable
+	at org.apache.struts2.dispatcher.Dispatcher.cleanup(Dispatcher.java:265)
+	at org.apache.struts2.dispatcher.ng.PrepareOperations.cleanupDispatcher(PrepareOperations.java:179)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.destroy(StrutsPrepareAndExecuteFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterConfig.release(ApplicationFilterConfig.java:332)
+	at org.apache.catalina.core.StandardContext.filterStop(StandardContext.java:3835)
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:4567)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:924)
+	at org.apache.catalina.startup.HostConfig.undeployApps(HostConfig.java:1248)
+	at org.apache.catalina.startup.HostConfig.stop(HostConfig.java:1219)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:316)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:119)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1086)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1098)
+	at org.apache.catalina.core.StandardEngine.stop(StandardEngine.java:448)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:584)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+	at org.apache.catalina.startup.Catalina.stop(Catalina.java:633)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:608)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+Caused by: java.lang.ClassNotFoundException: org.apache.struts2.util.ObjectFactoryDestroyable
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1387)
+	at org.apache.catalina.loader.WebappClassLoader.loadClass(WebappClassLoader.java:1233)
+	... 24 more
+
+Mar 18, 2024 12:52:14 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:52:36 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 12:52:37 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:52:37 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 853 ms
+Mar 18, 2024 12:52:37 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 12:52:37 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 12:52:42 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 12:52:42 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 12:52:42 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 12:52:42 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 12:52:43 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:52:43 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 12:52:43 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/23  config=null
+Mar 18, 2024 12:52:43 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6897 ms
+Mar 18, 2024 12:54:34 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/EfficientMultiKeyword]
+Mar 18, 2024 12:54:35 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.util.ReflectionUtils$ReflectionUtilsListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 12:54:35 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.config.ConfigureListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 12:54:35 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.application.WebappLifecycleListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 12:54:35 PM com.sun.faces.config.ConfigureListener$WebXmlProcessor scanForFacesServlet
+WARNING: Unable to process deployment descriptor for context 'null'
+Mar 18, 2024 12:54:35 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Sun's JavaServer Faces implementation (1.2_04-b07-FCS) for context '/EfficientMultiKeyword'
+Mar 18, 2024 12:55:19 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:55:20 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 12:55:20 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:55:25 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 12:55:26 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:55:26 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 885 ms
+Mar 18, 2024 12:55:26 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 12:55:26 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 12:55:37 PM com.sun.faces.config.ConfigureListener$WebXmlProcessor scanForFacesServlet
+WARNING: Unable to process deployment descriptor for context 'null'
+Mar 18, 2024 12:55:37 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Sun's JavaServer Faces implementation (1.2_04-b07-FCS) for context '/EfficientMultiKeyword'
+Mar 18, 2024 12:55:40 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 12:55:44 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 12:55:44 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/172  config=null
+Mar 18, 2024 12:55:44 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 18302 ms
+Mar 18, 2024 1:00:44 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/EfficientMultiKeyword]
+Mar 18, 2024 1:00:45 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.util.ReflectionUtils$ReflectionUtilsListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:00:45 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.config.ConfigureListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:00:45 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.application.WebappLifecycleListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:00:49 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 1:00:49 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 1:00:49 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 1:00:49 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 1:00:54 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:00:55 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 1:00:56 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:01:24 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 1:01:24 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:01:24 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 771 ms
+Mar 18, 2024 1:01:24 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 1:01:24 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 1:01:27 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 1:01:27 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 1:01:27 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 1:01:27 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 1:01:28 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:01:28 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 1:01:28 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/15  config=null
+Mar 18, 2024 1:01:28 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3555 ms
+Mar 18, 2024 1:02:22 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/EfficientMultiKeyword]
+Mar 18, 2024 1:02:24 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.util.ReflectionUtils$ReflectionUtilsListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:02:24 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.config.ConfigureListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:02:24 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.application.WebappLifecycleListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:02:24 PM com.sun.faces.config.ConfigureListener$WebXmlProcessor scanForFacesServlet
+WARNING: Unable to process deployment descriptor for context 'null'
+Mar 18, 2024 1:02:24 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Sun's JavaServer Faces implementation (1.2_04-b07-FCS) for context '/EfficientMultiKeyword'
+Mar 18, 2024 1:07:45 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/EfficientMultiKeyword]
+Mar 18, 2024 1:07:46 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.util.ReflectionUtils$ReflectionUtilsListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:07:46 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.config.ConfigureListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:07:46 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.application.WebappLifecycleListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:07:46 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.util.ReflectionUtils$ReflectionUtilsListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:07:46 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.config.ConfigureListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:07:46 PM org.apache.catalina.core.StandardContext addApplicationListener
+INFO: The listener "com.sun.faces.application.WebappLifecycleListener" is already configured for this context. The duplicate definition has been ignored.
+Mar 18, 2024 1:07:47 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 1:07:47 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 1:07:47 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 1:07:47 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 1:07:57 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:07:58 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 1:07:58 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:08:14 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 1:08:14 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:08:14 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 733 ms
+Mar 18, 2024 1:08:14 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 1:08:14 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 1:08:17 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 1:08:17 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 1:08:17 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 1:08:17 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 1:08:17 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:08:18 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 1:08:18 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/29  config=null
+Mar 18, 2024 1:08:18 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3794 ms
+Mar 18, 2024 1:11:20 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger warn
+WARNING: Could not find action or result
+No result defined for action logic.Login and result 
+	at com.opensymphony.xwork2.DefaultActionInvocation.executeResult(DefaultActionInvocation.java:364)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:266)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at com.struts2.dispatcher.filter.StrutsPrepareAndExecuteFilterBase.doFilter(StrutsPrepareAndExecuteFilterBase.java:20)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:849)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:454)
+	at java.lang.Thread.run(Unknown Source)
+
+Mar 18, 2024 1:14:42 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:14:43 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 1:14:45 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:14:59 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 1:14:59 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:14:59 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 611 ms
+Mar 18, 2024 1:15:00 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 1:15:00 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 1:15:02 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 1:15:03 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 1:15:03 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 1:15:03 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 1:15:04 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:15:04 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 1:15:04 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/15  config=null
+Mar 18, 2024 1:15:04 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4127 ms
+Mar 18, 2024 1:17:08 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:17:09 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 1:17:10 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Mar 18, 2024 1:17:52 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 1:17:52 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-9999
+Mar 18, 2024 1:17:52 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 679 ms
+Mar 18, 2024 1:17:52 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 1:17:52 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 1:17:55 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 1:17:55 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 1:17:55 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 1:17:55 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 1:17:56 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-9999
+Mar 18, 2024 1:17:56 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 1:17:56 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Mar 18, 2024 1:17:56 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3789 ms
+Mar 18, 2024 1:19:48 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger warn
+WARNING: Could not find action or result
+No result defined for action logic.Login and result 
+	at com.opensymphony.xwork2.DefaultActionInvocation.executeResult(DefaultActionInvocation.java:364)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:266)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:165)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:252)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:122)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:195)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:94)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:235)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:89)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:130)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:267)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:126)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:138)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:87)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:165)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:179)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:237)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:52)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:488)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at com.struts2.dispatcher.filter.StrutsPrepareAndExecuteFilterBase.doFilter(StrutsPrepareAndExecuteFilterBase.java:20)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:849)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:583)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:454)
+	at java.lang.Thread.run(Unknown Source)
+
+Mar 18, 2024 1:27:26 PM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/ClouddataWebservice]
+Mar 18, 2024 1:27:29 PM com.sun.xml.ws.transport.http.servlet.WSServletContextListener contextInitialized
+INFO: WSSERVLET12: JAX-WS context listener initializing
+Mar 18, 2024 1:27:35 PM com.sun.xml.ws.transport.http.servlet.WSServletDelegate <init>
+INFO: WSSERVLET14: JAX-WS servlet initializing
+Mar 18, 2024 1:30:52 PM org.apache.coyote.http11.Http11Protocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-9999
+Mar 18, 2024 1:30:54 PM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Mar 18, 2024 1:30:54 PM com.sun.xml.ws.transport.http.servlet.WSServletDelegate destroy
+INFO: WSSERVLET15: JAX-WS servlet destroyed
+Mar 18, 2024 1:30:54 PM com.sun.xml.ws.transport.http.servlet.WSServletContextListener contextDestroyed
+INFO: WSSERVLET13: JAX-WS context listener destroyed
+Mar 18, 2024 1:30:55 PM org.apache.coyote.http11.Http11Protocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-9999
+Mar 18, 2024 1:31:10 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Amazon\cfn-bootstrap\;C:\Program Files (x86)\Java\jdk1.8.0_05\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+Mar 18, 2024 1:31:10 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-9999
+Mar 18, 2024 1:31:10 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 796 ms
+Mar 18, 2024 1:31:10 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Mar 18, 2024 1:31:10 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.20
+Mar 18, 2024 1:31:13 PM com.sun.xml.ws.transport.http.servlet.WSServletContextListener contextInitialized
+INFO: WSSERVLET12: JAX-WS context listener initializing
+Mar 18, 2024 1:31:15 PM com.sun.xml.ws.transport.http.servlet.WSServletDelegate <init>
+INFO: WSSERVLET14: JAX-WS servlet initializing
+Mar 18, 2024 1:31:16 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-default.xml]
+Mar 18, 2024 1:31:16 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts-plugin.xml]
+Mar 18, 2024 1:31:16 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Parsing configuration file [struts.xml]
+Mar 18, 2024 1:31:16 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Loading global messages from ApplicationResources
+Mar 18, 2024 1:31:17 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-9999
+Mar 18, 2024 1:31:17 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Mar 18, 2024 1:31:17 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/16  config=null
+Mar 18, 2024 1:31:17 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6997 ms
+Mar 18, 2024 1:43:02 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Unable to find 'struts.multipart.saveDir' property setting. Defaulting to javax.servlet.context.tempdir
+Mar 18, 2024 1:45:08 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger info
+INFO: Removing file myFile C:\Program Files (x86)\Apache Software Foundation\Tomcat 6.0\work\Catalina\localhost\EfficientMultiKeyword\upload__5149d5f6_18e51cd66cb__8000_00000001.tmp
+Mar 18, 2024 1:45:32 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger warn
+WARNING: No configuration found for the specified action: '/search.jsp' in namespace: ''. Form action defaulting to 'action' attribute's literal value.
+Mar 18, 2024 1:45:32 PM com.opensymphony.xwork2.util.logging.commons.CommonsLogger warn
+WARNING: No configuration found for the specified action: '/search.jsp' in namespace: ''. Form action defaulting to 'action' attribute's literal value.

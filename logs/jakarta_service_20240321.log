@@ -1,0 +1,447 @@
+[2024-03-21 09:49:51] [info] Procrun (2.0.4.0) started
+[2024-03-21 09:49:51] [info] Debugging Service...
+[2024-03-21 09:49:51] [info] Starting service...
+[2024-03-21 09:49:55] [info] Service started in 3421 ms.
+[2024-03-21 09:50:24] [info] Console CTRL+CLOSE event signaled
+[2024-03-21 09:50:24] [info] Stopping service...
+[2024-03-21 09:50:26] [info] Service stopped.
+[2024-03-21 09:51:47] [info] Procrun (2.0.4.0) started
+[2024-03-21 09:51:47] [info] Debugging Service...
+[2024-03-21 09:51:47] [info] Starting service...
+[2024-03-21 09:51:49] [info] Service started in 2187 ms.
+[2024-03-21 10:03:26] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:03:26] [info] Debugging Service...
+[2024-03-21 10:03:26] [info] Starting service...
+[2024-03-21 10:03:28] [info] Service started in 1687 ms.
+[2024-03-21 10:03:38] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:03:38] [info] Debugging Service...
+[2024-03-21 10:03:38] [info] Starting service...
+[2024-03-21 10:03:39] [info] Service started in 1218 ms.
+[2024-03-21 10:03:47] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:03:47] [info] Debugging Service...
+[2024-03-21 10:03:47] [info] Starting service...
+[2024-03-21 10:03:48] [info] Service started in 1156 ms.
+[2024-03-21 10:03:57] [info] Console CTRL+CLOSE event signaled
+[2024-03-21 10:03:57] [info] Stopping service...
+[2024-03-21 10:03:58] [info] Console CTRL+BREAK event signaled
+[2024-03-21 10:03:58] [info] 2024-03-21 10:03:58
+[2024-03-21 10:03:58] [info] Full thread dump Java HotSpot(TM) Client VM (25.5-b02 mixed mode, sharing):
+[2024-03-21 10:03:59] [info] 
+[2024-03-21 10:03:59] [info] "http-9999-1" 
+[2024-03-21 10:03:59] [info] #20 
+[2024-03-21 10:03:59] [info] daemon 
+[2024-03-21 10:03:59] [info] prio=5 
+[2024-03-21 10:03:59] [info] os_prio=0 
+[2024-03-21 10:03:59] [info] tid=0x15e99000 
+[2024-03-21 10:03:59] [info] nid=0x16e8 
+[2024-03-21 10:03:59] [info] runnable 
+[2024-03-21 10:03:59] [info] [0x005de000]
+[2024-03-21 10:03:59] [info]    java.lang.Thread.State: RUNNABLE
+[2024-03-21 10:03:59] [info] 	at java.lang.Throwable.fillInStackTrace(Native Method)
+[2024-03-21 10:03:59] [info] 	at java.lang.Throwable.fillInStackTrace(Unknown Source)
+[2024-03-21 10:03:59] [info] 	- locked <0x04c20270> 
+[2024-03-21 10:03:59] [info] (a java.lang.ClassNotFoundException)
+[2024-03-21 10:03:59] [info] 	at java.lang.Throwable.<init>(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.lang.Exception.<init>(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.lang.ReflectiveOperationException.<init>(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.lang.ClassNotFoundException.<init>(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.net.URLClassLoader$1.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.net.URLClassLoader$1.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.security.AccessController.doPrivileged(Native Method)
+[2024-03-21 10:03:59] [info] 	at java.net.URLClassLoader.findClass(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-03-21 10:03:59] [info] 	- locked <0x04c203a0> 
+[2024-03-21 10:03:59] [info] (a java.lang.Object)
+[2024-03-21 10:03:59] [info] 	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-03-21 10:03:59] [info] 	- locked <0x09c2d848> 
+[2024-03-21 10:03:59] [info] (a org.apache.catalina.loader.StandardClassLoader)
+[2024-03-21 10:03:59] [info] 	at java.lang.ClassLoader.loadClass(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.util.ResourceBundle$Control.newBundle(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.util.ResourceBundle.loadBundle(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.util.ResourceBundle.findBundle(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.util.ResourceBundle.getBundleImpl(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at java.util.ResourceBundle.getBundle(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.res.StringManager.<init>(StringManager.java:77)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.res.StringManager.<init>(StringManager.java:72)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.res.StringManager.getManager(StringManager.java:161)
+[2024-03-21 10:03:59] [info] 	- locked <0x09d71a80> 
+[2024-03-21 10:03:59] [info] (a java.lang.Class for org.apache.tomcat.util.res.StringManager)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.buf.HexUtils.<clinit>(HexUtils.java:72)
+[2024-03-21 10:03:59] [info] 	at org.apache.coyote.http11.Http11Processor.<init>(Http11Processor.java:99)
+[2024-03-21 10:03:59] [info] 	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.createProcessor(Http11Protocol.java:619)
+[2024-03-21 10:03:59] [info] 	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:569)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:454)
+[2024-03-21 10:03:59] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 
+[2024-03-21 10:03:59] [info] "TP-Monitor" 
+[2024-03-21 10:03:59] [info] #18 
+[2024-03-21 10:03:59] [info] daemon 
+[2024-03-21 10:03:59] [info] prio=5 
+[2024-03-21 10:03:59] [info] os_prio=0 
+[2024-03-21 10:03:59] [info] tid=0x15e53000 
+[2024-03-21 10:03:59] [info] nid=0x16a0 
+[2024-03-21 10:03:59] [info] in Object.wait() 
+[2024-03-21 10:03:59] [info] [0x1885f000]
+[2024-03-21 10:03:59] [info]    java.lang.Thread.State: TIMED_WAITING (on object monitor)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:03:59] [info] 	- waiting on <0x04c20698> 
+[2024-03-21 10:03:59] [info] (a org.apache.tomcat.util.threads.ThreadPool$MonitorRunnable)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.threads.ThreadPool$MonitorRunnable.run(ThreadPool.java:565)
+[2024-03-21 10:03:59] [info] 	- locked <0x04c20698> 
+[2024-03-21 10:03:59] [info] (a org.apache.tomcat.util.threads.ThreadPool$MonitorRunnable)
+[2024-03-21 10:03:59] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 
+[2024-03-21 10:03:59] [info] "TP-Processor4" 
+[2024-03-21 10:03:59] [info] #17 
+[2024-03-21 10:03:59] [info] daemon 
+[2024-03-21 10:03:59] [info] prio=5 
+[2024-03-21 10:03:59] [info] os_prio=0 
+[2024-03-21 10:03:59] [info] tid=0x1682c800 
+[2024-03-21 10:03:59] [info] nid=0x19e8 
+[2024-03-21 10:03:59] [info] in Object.wait() 
+[2024-03-21 10:03:59] [info] [0x187cf000]
+[2024-03-21 10:03:59] [info]    java.lang.Thread.State: WAITING (on object monitor)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:03:59] [info] 	- waiting on <0x04c20840> 
+[2024-03-21 10:03:59] [info] (a org.apache.jk.common.ChannelSocket)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at org.apache.jk.common.ChannelSocket.accept(ChannelSocket.java:301)
+[2024-03-21 10:03:59] [info] 	- locked <0x04c20840> 
+[2024-03-21 10:03:59] [info] (a org.apache.jk.common.ChannelSocket)
+[2024-03-21 10:03:59] [info] 	at org.apache.jk.common.ChannelSocket.acceptConnections(ChannelSocket.java:661)
+[2024-03-21 10:03:59] [info] 	at org.apache.jk.common.ChannelSocket$SocketAcceptor.runIt(ChannelSocket.java:872)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:690)
+[2024-03-21 10:03:59] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 
+[2024-03-21 10:03:59] [info] "TP-Processor3" 
+[2024-03-21 10:03:59] [info] #16 
+[2024-03-21 10:03:59] [info] daemon 
+[2024-03-21 10:03:59] [info] prio=5 
+[2024-03-21 10:03:59] [info] os_prio=0 
+[2024-03-21 10:03:59] [info] tid=0x1610dc00 
+[2024-03-21 10:03:59] [info] nid=0x1bdc 
+[2024-03-21 10:03:59] [info] in Object.wait() 
+[2024-03-21 10:03:59] [info] [0x1873f000]
+[2024-03-21 10:03:59] [info]    java.lang.Thread.State: WAITING (on object monitor)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:03:59] [info] 	- waiting on <0x04c20ad8> 
+[2024-03-21 10:03:59] [info] (a org.apache.tomcat.util.threads.ThreadPool$ControlRunnable)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:662)
+[2024-03-21 10:03:59] [info] 	- locked <0x04c20ad8> 
+[2024-03-21 10:03:59] [info] (a org.apache.tomcat.util.threads.ThreadPool$ControlRunnable)
+[2024-03-21 10:03:59] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 
+[2024-03-21 10:03:59] [info] "TP-Processor2" 
+[2024-03-21 10:03:59] [info] #15 
+[2024-03-21 10:03:59] [info] daemon 
+[2024-03-21 10:03:59] [info] prio=5 
+[2024-03-21 10:03:59] [info] os_prio=0 
+[2024-03-21 10:03:59] [info] tid=0x15e6b000 
+[2024-03-21 10:03:59] [info] nid=0x16fc 
+[2024-03-21 10:03:59] [info] in Object.wait() 
+[2024-03-21 10:03:59] [info] [0x186af000]
+[2024-03-21 10:03:59] [info]    java.lang.Thread.State: WAITING (on object monitor)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:03:59] [info] 	- waiting on <0x04c20c98> 
+[2024-03-21 10:03:59] [info] (a org.apache.tomcat.util.threads.ThreadPool$ControlRunnable)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:662)
+[2024-03-21 10:03:59] [info] 	- locked <0x04c20c98> 
+[2024-03-21 10:03:59] [info] (a org.apache.tomcat.util.threads.ThreadPool$ControlRunnable)
+[2024-03-21 10:03:59] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 
+[2024-03-21 10:03:59] [info] "TP-Processor1" 
+[2024-03-21 10:03:59] [info] #14 
+[2024-03-21 10:03:59] [info] daemon 
+[2024-03-21 10:03:59] [info] prio=5 
+[2024-03-21 10:03:59] [info] os_prio=0 
+[2024-03-21 10:03:59] [info] tid=0x15e9c000 
+[2024-03-21 10:03:59] [info] nid=0x7d0 
+[2024-03-21 10:03:59] [info] in Object.wait() 
+[2024-03-21 10:03:59] [info] [0x1861f000]
+[2024-03-21 10:03:59] [info]    java.lang.Thread.State: WAITING (on object monitor)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:03:59] [info] 	- waiting on <0x04c20e48> 
+[2024-03-21 10:03:59] [info] (a org.apache.tomcat.util.threads.ThreadPool$ControlRunnable)
+[2024-03-21 10:03:59] [info] 	at java.lang.Object.wait(Unknown Source)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:662)
+[2024-03-21 10:03:59] [info] 	- locked <0x04c20e48> 
+[2024-03-21 10:03:59] [info] (a org.apache.tomcat.util.threads.ThreadPool$ControlRunnable)
+[2024-03-21 10:03:59] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 
+[2024-03-21 10:03:59] [info] "http-9999-Acceptor-0" 
+[2024-03-21 10:03:59] [info] #13 
+[2024-03-21 10:03:59] [info] daemon 
+[2024-03-21 10:03:59] [info] prio=5 
+[2024-03-21 10:03:59] [info] os_prio=0 
+[2024-03-21 10:03:59] [info] tid=0x16112000 
+[2024-03-21 10:03:59] [info] nid=0x13e0 
+[2024-03-21 10:03:59] [info] waiting on condition 
+[2024-03-21 10:03:59] [info] [0x1858f000]
+[2024-03-21 10:03:59] [info]    java.lang.Thread.State: TIMED_WAITING (sleeping)
+[2024-03-21 10:03:59] [info] 	at java.lang.Thread.sleep(Native Method)
+[2024-03-21 10:03:59] [info] 	at org.apache.tomcat.util.net.JIoEndpoint$Acceptor.run(JIoEndpoint.java:309)
+[2024-03-21 10:03:59] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:03:59] [info] 
+[2024-03-21 10:03:59] [info] "ContainerBackgroundProcessor[StandardEngine[Catalina]]" 
+[2024-03-21 10:03:59] [info] #12 
+[2024-03-21 10:03:59] [info] daemon 
+[2024-03-21 10:03:59] [info] prio=5 
+[2024-03-21 10:04:00] [info] os_prio=0 
+[2024-03-21 10:04:00] [info] tid=0x15f61800 
+[2024-03-21 10:04:00] [info] nid=0x19a0 
+[2024-03-21 10:04:00] [info] waiting on condition 
+[2024-03-21 10:04:00] [info] [0x184ff000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: TIMED_WAITING (sleeping)
+[2024-03-21 10:04:00] [info] 	at java.lang.Thread.sleep(Native Method)
+[2024-03-21 10:04:00] [info] 	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1579)
+[2024-03-21 10:04:00] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "Timer-0" 
+[2024-03-21 10:04:00] [info] #11 
+[2024-03-21 10:04:00] [info] daemon 
+[2024-03-21 10:04:00] [info] prio=5 
+[2024-03-21 10:04:00] [info] os_prio=0 
+[2024-03-21 10:04:00] [info] tid=0x16857c00 
+[2024-03-21 10:04:00] [info] nid=0x1880 
+[2024-03-21 10:04:00] [info] in Object.wait() 
+[2024-03-21 10:04:00] [info] [0x1668f000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: WAITING (on object monitor)
+[2024-03-21 10:04:00] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:04:00] [info] 	- waiting on <0x0a716348> 
+[2024-03-21 10:04:00] [info] (a java.util.TaskQueue)
+[2024-03-21 10:04:00] [info] 	at java.lang.Object.wait(Unknown Source)
+[2024-03-21 10:04:00] [info] 	at java.util.TimerThread.mainLoop(Unknown Source)
+[2024-03-21 10:04:00] [info] 	- locked <0x0a716348> 
+[2024-03-21 10:04:00] [info] (a java.util.TaskQueue)
+[2024-03-21 10:04:00] [info] 	at java.util.TimerThread.run(Unknown Source)
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "Abandoned connection cleanup thread" 
+[2024-03-21 10:04:00] [info] #10 
+[2024-03-21 10:04:00] [info] daemon 
+[2024-03-21 10:04:00] [info] prio=5 
+[2024-03-21 10:04:00] [info] os_prio=0 
+[2024-03-21 10:04:00] [info] tid=0x15f20000 
+[2024-03-21 10:04:00] [info] nid=0xcc4 
+[2024-03-21 10:04:00] [info] in Object.wait() 
+[2024-03-21 10:04:00] [info] [0x1623f000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: TIMED_WAITING (on object monitor)
+[2024-03-21 10:04:00] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:04:00] [info] 	- waiting on <0x09fb5838> 
+[2024-03-21 10:04:00] [info] (a java.lang.ref.ReferenceQueue$Lock)
+[2024-03-21 10:04:00] [info] 	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[2024-03-21 10:04:00] [info] 	- locked <0x09fb5838> 
+[2024-03-21 10:04:00] [info] (a java.lang.ref.ReferenceQueue$Lock)
+[2024-03-21 10:04:00] [info] 	at com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:64)
+[2024-03-21 10:04:00] [info] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[2024-03-21 10:04:00] [info] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[2024-03-21 10:04:00] [info] 	at java.lang.Thread.run(Unknown Source)
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "Thread-1" 
+[2024-03-21 10:04:00] [info] #9 
+[2024-03-21 10:04:00] [info] prio=5 
+[2024-03-21 10:04:00] [info] os_prio=0 
+[2024-03-21 10:04:00] [info] tid=0x15496800 
+[2024-03-21 10:04:00] [info] nid=0x1a54 
+[2024-03-21 10:04:00] [info] waiting on condition 
+[2024-03-21 10:04:00] [info] [0x1570f000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: TIMED_WAITING (sleeping)
+[2024-03-21 10:04:00] [info] 	at java.lang.Thread.sleep(Native Method)
+[2024-03-21 10:04:00] [info] 	at org.apache.catalina.core.StandardService.stop(StandardService.java:569)
+[2024-03-21 10:04:00] [info] 	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:744)
+[2024-03-21 10:04:00] [info] 	at org.apache.catalina.startup.Catalina.stop(Catalina.java:633)
+[2024-03-21 10:04:00] [info] 	at org.apache.catalina.startup.Catalina.start(Catalina.java:608)
+[2024-03-21 10:04:00] [info] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[2024-03-21 10:04:00] [info] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[2024-03-21 10:04:00] [info] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[2024-03-21 10:04:00] [info] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[2024-03-21 10:04:00] [info] 	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:288)
+[2024-03-21 10:04:00] [info] 	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:413)
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "Service Thread" 
+[2024-03-21 10:04:00] [info] #7 
+[2024-03-21 10:04:00] [info] daemon 
+[2024-03-21 10:04:00] [info] prio=9 
+[2024-03-21 10:04:00] [info] os_prio=0 
+[2024-03-21 10:04:00] [info] tid=0x0252c800 
+[2024-03-21 10:04:00] [info] nid=0xf44 
+[2024-03-21 10:04:00] [info] runnable 
+[2024-03-21 10:04:00] [info] [0x00000000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: RUNNABLE
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "C1 CompilerThread0" 
+[2024-03-21 10:04:00] [info] #6 
+[2024-03-21 10:04:00] [info] daemon 
+[2024-03-21 10:04:00] [info] prio=9 
+[2024-03-21 10:04:00] [info] os_prio=2 
+[2024-03-21 10:04:00] [info] tid=0x0250f000 
+[2024-03-21 10:04:00] [info] nid=0xb08 
+[2024-03-21 10:04:00] [info] waiting on condition 
+[2024-03-21 10:04:00] [info] [0x00000000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: RUNNABLE
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "Attach Listener" 
+[2024-03-21 10:04:00] [info] #5 
+[2024-03-21 10:04:00] [info] daemon 
+[2024-03-21 10:04:00] [info] prio=5 
+[2024-03-21 10:04:00] [info] os_prio=2 
+[2024-03-21 10:04:00] [info] tid=0x0250e000 
+[2024-03-21 10:04:00] [info] nid=0x1738 
+[2024-03-21 10:04:00] [info] runnable 
+[2024-03-21 10:04:00] [info] [0x00000000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: RUNNABLE
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "Signal Dispatcher" 
+[2024-03-21 10:04:00] [info] #4 
+[2024-03-21 10:04:00] [info] daemon 
+[2024-03-21 10:04:00] [info] prio=9 
+[2024-03-21 10:04:00] [info] os_prio=2 
+[2024-03-21 10:04:00] [info] tid=0x0250c400 
+[2024-03-21 10:04:00] [info] nid=0x90c 
+[2024-03-21 10:04:00] [info] waiting on condition 
+[2024-03-21 10:04:00] [info] [0x00000000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: RUNNABLE
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "Finalizer" 
+[2024-03-21 10:04:00] [info] #3 
+[2024-03-21 10:04:00] [info] daemon 
+[2024-03-21 10:04:00] [info] prio=8 
+[2024-03-21 10:04:00] [info] os_prio=1 
+[2024-03-21 10:04:00] [info] tid=0x024aac00 
+[2024-03-21 10:04:00] [info] nid=0x1050 
+[2024-03-21 10:04:00] [info] in Object.wait() 
+[2024-03-21 10:04:00] [info] [0x14c1f000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: WAITING (on object monitor)
+[2024-03-21 10:04:00] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:04:00] [info] 	- waiting on <0x09c3ebf0> 
+[2024-03-21 10:04:00] [info] (a java.lang.ref.ReferenceQueue$Lock)
+[2024-03-21 10:04:00] [info] 	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[2024-03-21 10:04:00] [info] 	- locked <0x09c3ebf0> 
+[2024-03-21 10:04:00] [info] (a java.lang.ref.ReferenceQueue$Lock)
+[2024-03-21 10:04:00] [info] 	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[2024-03-21 10:04:00] [info] 	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "Reference Handler" 
+[2024-03-21 10:04:00] [info] #2 
+[2024-03-21 10:04:00] [info] daemon 
+[2024-03-21 10:04:00] [info] prio=10 
+[2024-03-21 10:04:00] [info] os_prio=2 
+[2024-03-21 10:04:00] [info] tid=0x024a5000 
+[2024-03-21 10:04:00] [info] nid=0x13dc 
+[2024-03-21 10:04:00] [info] in Object.wait() 
+[2024-03-21 10:04:00] [info] [0x14b8f000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: WAITING (on object monitor)
+[2024-03-21 10:04:00] [info] 	at java.lang.Object.wait(Native Method)
+[2024-03-21 10:04:00] [info] 	- waiting on <0x09c3ed90> 
+[2024-03-21 10:04:00] [info] (a java.lang.ref.Reference$Lock)
+[2024-03-21 10:04:00] [info] 	at java.lang.Object.wait(Unknown Source)
+[2024-03-21 10:04:00] [info] 	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+[2024-03-21 10:04:00] [info] 	- locked <0x09c3ed90> 
+[2024-03-21 10:04:00] [info] (a java.lang.ref.Reference$Lock)
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "main" 
+[2024-03-21 10:04:00] [info] #1 
+[2024-03-21 10:04:00] [info] prio=5 
+[2024-03-21 10:04:00] [info] os_prio=0 
+[2024-03-21 10:04:00] [info] tid=0x0202c000 
+[2024-03-21 10:04:00] [info] nid=0xab0 
+[2024-03-21 10:04:00] [info] runnable 
+[2024-03-21 10:04:00] [info] [0x00000000]
+[2024-03-21 10:04:00] [info]    java.lang.Thread.State: RUNNABLE
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "VM Thread" 
+[2024-03-21 10:04:00] [info] os_prio=2 
+[2024-03-21 10:04:00] [info] tid=0x024a3400 
+[2024-03-21 10:04:00] [info] nid=0x146c 
+[2024-03-21 10:04:00] [info] runnable 
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] "VM Periodic Task Thread" 
+[2024-03-21 10:04:00] [info] os_prio=2 
+[2024-03-21 10:04:00] [info] tid=0x02532000 
+[2024-03-21 10:04:00] [info] nid=0x1bd8 
+[2024-03-21 10:04:00] [info] waiting on condition 
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:00] [info] 
+[2024-03-21 10:04:01] [info] JNI global references: 110
+[2024-03-21 10:04:01] [info] 
+[2024-03-21 10:04:01] [info] Heap
+[2024-03-21 10:04:01] [info]  def new generation  
+[2024-03-21 10:04:01] [info]  total 7040K, used 1097K
+[2024-03-21 10:04:01] [info]  [0x04600000, 0x04da0000, 0x09b50000)
+[2024-03-21 10:04:01] [info]   eden
+[2024-03-21 10:04:01] [info]  space 6272K,   6% used
+[2024-03-21 10:04:01] [info]  [0x04600000, 0x04665690, 0x04c20000)
+[2024-03-21 10:04:01] [info]   from
+[2024-03-21 10:04:01] [info]  space 768K, 100% used
+[2024-03-21 10:04:01] [info]  [0x04c20000, 0x04ce0000, 0x04ce0000)
+[2024-03-21 10:04:01] [info]   to  
+[2024-03-21 10:04:01] [info]  space 768K,   0% used
+[2024-03-21 10:04:01] [info]  [0x04ce0000, 0x04ce0000, 0x04da0000)
+[2024-03-21 10:04:01] [info]  tenured generation  
+[2024-03-21 10:04:01] [info]  total 15484K, used 14542K
+[2024-03-21 10:04:01] [info]  [0x09b50000, 0x0aa6f000, 0x14600000)
+[2024-03-21 10:04:01] [info]    the
+[2024-03-21 10:04:01] [info]  space 15484K,  93% used
+[2024-03-21 10:04:01] [info]  [0x09b50000, 0x0a983918, 0x0a983a00, 0x0aa6f000)
+[2024-03-21 10:04:01] [info]  Metaspace       used 12873K, capacity 13022K, committed 13056K, reserved 13696K
+[2024-03-21 10:04:01] [info] 
+[2024-03-21 10:04:02] [info] Console CTRL+C event signaled
+[2024-03-21 10:04:02] [info] Stopping service...
+[2024-03-21 10:04:02] [info] Debug service finished.
+[2024-03-21 10:04:02] [info] Procrun finished.
+[2024-03-21 10:04:05] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:04:05] [info] Debugging Service...
+[2024-03-21 10:04:05] [info] Starting service...
+[2024-03-21 10:04:06] [info] Service started in 1125 ms.
+[2024-03-21 10:04:16] [info] Console CTRL+CLOSE event signaled
+[2024-03-21 10:04:16] [info] Stopping service...
+[2024-03-21 10:04:17] [info] Service stopped.
+[2024-03-21 10:06:16] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:06:16] [info] Debugging Service...
+[2024-03-21 10:06:16] [info] Starting service...
+[2024-03-21 10:06:17] [info] Service started in 1109 ms.
+[2024-03-21 10:06:35] [info] Console CTRL+CLOSE event signaled
+[2024-03-21 10:06:35] [info] Stopping service...
+[2024-03-21 10:06:36] [info] Service stopped.
+[2024-03-21 10:07:56] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:07:56] [info] Debugging Service...
+[2024-03-21 10:07:56] [info] Starting service...
+[2024-03-21 10:07:57] [info] Service started in 1218 ms.
+[2024-03-21 10:12:47] [info] Console CTRL+C event signaled
+[2024-03-21 10:12:47] [info] Stopping service...
+[2024-03-21 10:12:49] [info] Service stopped.
+[2024-03-21 10:12:49] [info] Console CTRL+C event signaled
+[2024-03-21 10:12:49] [info] Stopping service...
+[2024-03-21 10:12:49] [info] Debug service finished.
+[2024-03-21 10:12:49] [info] Procrun finished.
+[2024-03-21 10:13:01] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:13:01] [info] Debugging Service...
+[2024-03-21 10:13:01] [info] Starting service...
+[2024-03-21 10:13:02] [info] Service started in 1359 ms.
+[2024-03-21 10:31:54] [info] Console CTRL+C event signaled
+[2024-03-21 10:31:54] [info] Stopping service...
+[2024-03-21 10:31:56] [info] Debug service finished.
+[2024-03-21 10:31:56] [info] Procrun finished.
+[2024-03-21 10:32:13] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:32:13] [info] Debugging Service...
+[2024-03-21 10:32:13] [info] Starting service...
+[2024-03-21 10:32:15] [info] Service started in 1374 ms.
+[2024-03-21 10:33:10] [info] Console CTRL+C event signaled
+[2024-03-21 10:33:10] [info] Stopping service...
+[2024-03-21 10:33:11] [info] Service stopped.
+[2024-03-21 10:33:11] [info] Console CTRL+C event signaled
+[2024-03-21 10:33:11] [info] Stopping service...
+[2024-03-21 10:33:11] [info] Debug service finished.
+[2024-03-21 10:33:11] [info] Procrun finished.
+[2024-03-21 10:36:27] [info] Procrun (2.0.4.0) started
+[2024-03-21 10:36:27] [info] Debugging Service...
+[2024-03-21 10:36:27] [info] Starting service...
+[2024-03-21 10:36:29] [info] Service started in 2109 ms.
+[2024-03-21 11:36:34] [info] Console CTRL+C event signaled
+[2024-03-21 11:36:34] [info] Stopping service...
+[2024-03-21 11:36:39] [info] Service stopped.
+[2024-03-21 11:36:39] [info] Debug service finished.
+[2024-03-21 11:36:39] [info] Procrun finished.
